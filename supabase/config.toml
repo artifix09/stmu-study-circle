@@ -1,0 +1,4 @@
+project_id = "fefvwitdblpxfqmbabhw"
+
+[functions.session-reminders]
+verify_jwt = false
